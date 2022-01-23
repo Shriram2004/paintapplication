@@ -79,7 +79,7 @@ let csize= 20;
 let sqsize= 50;
 let tsize=30;
 let tatakae="black";
-function size()
+function size()3
 {   
 if (shape==1 ||shape==2){
     let c= prompt("Please enter size of circle", "ex:100,50");
@@ -212,6 +212,9 @@ function change_color(element){
 
 ### Drawing Screenshot 
 ![output2](.png)
+
+### Change size
+![output3](size.png)
 
 ## Result:
 
